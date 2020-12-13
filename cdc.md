@@ -1,0 +1,3 @@
+- email expéditeur : input email, max 190 caractères inclus
+- sujet : input text, min 3 max 190 caractères inclus, blocage du code html
+- message : textarea, min 3 caractères max 1000 caractères inclus, blocage du code html
